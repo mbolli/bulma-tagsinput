@@ -5,6 +5,7 @@ const defaultOptions = {
 	lowercase: false,
 	uppercase: false,
 	duplicates: true,
+	disableEvents: false,
 	onDelete: null
 };
 
